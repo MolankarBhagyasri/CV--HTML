@@ -31,4 +31,5 @@ https://github.com/MolankarBhagyasri/CV--HTML
 - Git & GitHub
 
 ---
-
+## Github Project URL
+https://molankarbhagyasri.github.io/CV--HTML/
