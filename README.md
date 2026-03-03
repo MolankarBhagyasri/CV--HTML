@@ -1,4 +1,3 @@
-
 # Single Page HTML Website
 
 A simple single-page website built using **HTML** and **CSS**.  
@@ -6,14 +5,12 @@ This project demonstrates basic web development concepts including layout design
 
 ---
 
-##  Project URL
-
-## Github Project URL
+## Project URL
 https://molankarbhagyasri.github.io/CV--HTML/
 
 ---
 
-##  Features
+## Features
 
 - Single page layout
 - Clean and simple UI
@@ -23,13 +20,9 @@ https://molankarbhagyasri.github.io/CV--HTML/
 
 ---
 
-##  Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - VS Code
 - Git & GitHub
-
----
-## Github Project URL
-https://molankarbhagyasri.github.io/CV--HTML/
