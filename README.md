@@ -6,14 +6,14 @@ This project demonstrates basic web development concepts including layout design
 
 ---
 
-## 🔗 Project URL
+##  Project URL
 
 GitHub Repository:  
 https://github.com/MolankarBhagyasri/CV--HTML
 
 ---
 
-## 📌 Features
+##  Features
 
 - Single page layout
 - Clean and simple UI
@@ -23,7 +23,7 @@ https://github.com/MolankarBhagyasri/CV--HTML
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
@@ -32,9 +32,3 @@ https://github.com/MolankarBhagyasri/CV--HTML
 
 ---
 
-## ▶️ How to Run the Project
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/MolankarBhagyasri/CV--HTML.git
