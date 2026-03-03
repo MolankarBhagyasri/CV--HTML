@@ -1,8 +1,17 @@
+
 # Single Page HTML Website
 
 A simple single-page website built using **HTML** and **CSS**.  
 This project demonstrates basic web development concepts including layout design, styling, and responsive structure.
 
+---
+
+## 🔗 Project URL
+
+GitHub Repository:  
+https://github.com/MolankarBhagyasri/CV--HTML
+
+---
 
 ## 📌 Features
 
@@ -13,12 +22,6 @@ This project demonstrates basic web development concepts including layout design
 - Beginner-friendly project
 
 ---
- How to Run the Project
-
- Clone the repository:
-
-```bash
-git clone https://github.com/MolankarBhagyasri/CV--HTML.git
 
 ## 🛠️ Technologies Used
 
@@ -26,3 +29,12 @@ git clone https://github.com/MolankarBhagyasri/CV--HTML.git
 - CSS3
 - VS Code
 - Git & GitHub
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/MolankarBhagyasri/CV--HTML.git
