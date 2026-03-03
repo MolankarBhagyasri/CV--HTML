@@ -8,8 +8,8 @@ This project demonstrates basic web development concepts including layout design
 
 ##  Project URL
 
-GitHub Repository:  
-https://github.com/MolankarBhagyasri/CV--HTML
+## Github Project URL
+https://molankarbhagyasri.github.io/CV--HTML/
 
 ---
 
