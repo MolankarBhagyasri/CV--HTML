@@ -13,6 +13,12 @@ This project demonstrates basic web development concepts including layout design
 - Beginner-friendly project
 
 ---
+ How to Run the Project
+
+ Clone the repository:
+
+```bash
+git clone https://github.com/MolankarBhagyasri/CV--HTML.git
 
 ## 🛠️ Technologies Used
 
